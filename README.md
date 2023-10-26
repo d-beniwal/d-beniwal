@@ -6,7 +6,7 @@
 - **[IDEAsLab-Materials-Informatics](https://github.com/IDEAsLab-Materials-Informatics)**
 - **[IDEAsLab-Computational-Microstructure](https://github.com/IDEAsLab-Computational-Microstructure)**
 
-## My work hosted at IDEAs Lab organization pages:
+## My work hosted at [IDEAs Lab](https://ideaslab.iitrpr.ac.in/) organization pages:
 - **[EDS-PhaSe](https://github.com/IDEAsLab-Computational-Microstructure/EDS-PhaSe)**: Phase segmentation and phase analysis from quantitative analysis of EDS elemental maps
 - **[CoSMoR](https://github.com/IDEAsLab-Materials-Informatics/CoSMoR)**: Compositional-Stimulus and Model-Response framework for interpretation of ML models
 - **[Reduced mathematical model](https://github.com/IDEAsLab-Materials-Informatics/reduced-math-model-FCCvsBCC-HEAs)**: Reduced, simplified and interpretable mathematical model for FCC vs BCC phase selection in MPEAs
